@@ -7,15 +7,13 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## About Me
-I'm a passionate engineer specializing in blockchain technology, with a particular focus on the Polkadot ecosystem and Substrate framework. I believe that the future of blockchain lies in the power of interoperability and scalability, and Polkadot's unique architecture and vision align perfectly with this belief. I'm excited about building the next generation of decentralized applications and infrastructure on this cutting-edge platform.
+I'm a passionate engineer specializing in blockchain technology, with a particular focus on the Polkadot ecosystem and Substrate framework. I believe that the future of blockchain lies in the power of interoperability and scalability, and Polkadot's unique architecture aligns perfectly with this vision. I'm excited about building the next generation of decentralized applications and infrastructure on this cutting-edge platform.
 
 As a strong advocate for functional programming, I leverage languages like TypeScript and Rust, along with powerful libraries like Effect-TS, to create robust, type-safe, and composable code. I believe that the principles of functional programming, such as immutability and pure functions, are essential for building reliable and maintainable systems, especially in the complex world of blockchain.
 
 In the realm of AI, I'm fascinated by the art of prompt engineering and its potential to unlock the capabilities of large language models. I've been exploring projects like [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) and experimenting with crafting effective prompts to push the boundaries of what's possible with AI. I'm particularly interested in the intersection of AI and blockchain, and how these technologies can be combined to create intelligent, decentralized systems.
 
-When I'm not coding, you can find me brainstorming ambitious projects that leverage the power of blockchain and AI to drive positive change in the world. I'm a firm believer in the transformative potential of these technologies, and I'm always exploring new ideas and collaborations that can make a real impact.
-
-If you're passionate about blockchain, functional programming, or AI, I'd love to connect and explore how we can work together to build the future. Feel free to reach out, and let's have a chat about the exciting possibilities ahead!
+When I'm not coding, you can find me brainstorming ambitious projects that leverage the power of blockchain and AI to drive positive change. I'm a firm believer in the transformative potential of these technologies, and I'm always exploring new ideas and collaborations that can make a real impact. If you're passionate about blockchain, functional programming, or AI, I'd love to connect and explore how we can work together to build the future!
 
 ## Skills
 - Blockchain Development (Substrate, Rust)
