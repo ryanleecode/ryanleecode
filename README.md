@@ -7,6 +7,9 @@
 ![Functional Programming](https://img.shields.io/badge/Functional_Programming-3178C6?style=for-the-badge&logo=haskell&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## About Me
+I'm a Full Stack Developer with a passion for Blockchain, AI, and functional programming. I love pushing the boundaries of technology and am constantly seeking out the latest trends. When I'm not coding, you'll find me watching Warcraft III and Starcraft I videos. I'm an ambitious individual who values trust, open communication, and efficiency. Fun fact: I was a top 50 grandmaster in Starcraft II during the Heart of the Swarm era.
+
 ## Skills
 - Blockchain Development (Substrate, Rust)
 - TypeScript & Advanced Type Systems
