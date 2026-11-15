@@ -32,7 +32,7 @@
 I design and run multi-agent software engineering pipelines at **[System F Software](https://github.com/systemfsoftware)**. Human attention stays focused on intent, taste, and release, while specialized coding agents handle planning, isolated implementation, adversarial review, and rule compounding.
 
 ```mermaid
-flowchart LR
+flowchart TD
     Owner["Owner (intent, taste, release)"] --> Conductor["Conductor on Kiro Crew (requirements, plan approval)"]
     Conductor --> Plan["Committed Plan"]
     Plan --> Makers["Makers in Isolated Worktrees (Claude Code / OMP)"]
@@ -78,7 +78,7 @@ Public libraries, developer tools, and conformance suites published under [`syst
 | [`hex-schema`](https://github.com/systemfsoftware/hex-schema) | Hex-encoded byte schemas built for Effect Schema. | ![Stars](https://img.shields.io/github/stars/systemfsoftware/hex-schema?style=flat-square) |
 | [`rx-effect`](https://github.com/systemfsoftware/rx-effect) | RxJS `Observable` to typed Effect `Stream` bridge with backpressure and interruption semantics. | ![Stars](https://img.shields.io/github/stars/systemfsoftware/rx-effect?style=flat-square) |
 | [`effect-memfs`](https://github.com/systemfsoftware/effect-memfs) | In-memory filesystem implementation for Effect (fork of [`nounder/effect-memfs`](https://github.com/nounder/effect-memfs)). | ![Stars](https://img.shields.io/github/stars/systemfsoftware/effect-memfs?style=flat-square) |
-| [`discern`](https://github.com/systemfsoftware/discern) | Static analysis and code inspection tooling (fork of [`doeixd/discern`](https://github.com/doeixd/discern)). | ![Stars](https://img.shields.io/github/stars/systemfsoftware/discern?style=flat-square) |
+| [`discern`](https://github.com/systemfsoftware/discern) | Uncertainty-aware semantic pattern matching and control flow for Effect (fork of [`doeixd/discern`](https://github.com/doeixd/discern)). | ![Stars](https://img.shields.io/github/stars/systemfsoftware/discern?style=flat-square) |
 | [`effect-endgame-starter-kit`](https://github.com/systemfsoftware/effect-endgame-starter-kit) | Opinionated project template pre-wired with Effect, strict typing, mutation testing, and agent guardrails. | ![Stars](https://img.shields.io/github/stars/systemfsoftware/effect-endgame-starter-kit?style=flat-square) |
 
 ---
@@ -122,3 +122,4 @@ Ranked **Top 50 Grandmaster** in *StarCraft II* during the *Heart of the Swarm* 
     <img src="https://img.shields.io/badge/ryanleecode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+o
